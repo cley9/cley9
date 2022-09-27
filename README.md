@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" /> -->
 
 <p align="center">
 <a href="https://" target="_blank"><img src="js.png" width="50"></a>
