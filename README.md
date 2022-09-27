@@ -15,6 +15,11 @@
 <a href="https://" target="_blank"><img src="figma.png" width="50"></a>
 <a href="https://" target="_blank"><img src="oreja.png" width="50"></a>
 <a href="https://" target="_blank"><img src="react.png" width="50"></a>
+<a href="https://" target="_blank"><img src="java.png" width="50"></a>
+<a href="https://" target="_blank"><img src="servidor-sql.png" width="50"></a>
+<a href="https://" target="_blank"><img src="nodo-js.png" width="50"></a>
+<a href="https://" target="_blank"><img src="react.png" width="50"></a>
+<a href="https://" target="_blank"><img src="react.png" width="50"></a>
 
 
 
