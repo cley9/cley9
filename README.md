@@ -1,6 +1,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" />
 
+<p align="center"><a href="https://" target="_blank"><img src="js.png" width="100"></a></p>
+
+
 [![laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg)](https://laravel.com/docs/9.x)
 
 [![js](js.png)](https://laravel.com/docs/9.x)
