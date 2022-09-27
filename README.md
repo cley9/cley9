@@ -14,6 +14,8 @@
 <a href="https://" target="_blank"><img src="piton.png" width="50"></a>
 <a href="https://" target="_blank"><img src="figma.png" width="50"></a>
 <a href="https://" target="_blank"><img src="oreja.png" width="50"></a>
+<a href="https://" target="_blank"><img src="react.png" width="50"></a>
+
 
 
 </p>
