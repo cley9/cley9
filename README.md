@@ -21,7 +21,7 @@
 </p>
 
 
-[![laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg)](https://laravel.com/docs/9.x)
+<!-- [![laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg)](https://laravel.com/docs/9.x) -->
 
 <!-- [![js](js.png)](https://laravel.com/docs/9.x) -->
 <!-- 
