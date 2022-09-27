@@ -2,25 +2,25 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" /> -->
 
 <p align="center">
-<a href="https://" target="_blank"><img src="js.png" width="50"></a>
-<a href="https://" target="_blank"><img src="postgre.png" width="50"></a>
-<!-- <a href="https://" target="_blank"><img src="json.png" width="50"></a> -->
-<a href="https://" target="_blank"><img src="json.png" width="50"></a>
 <a href="https://" target="_blank"><img src="html-5.png" width="50"></a>
+<a href="https://" target="_blank"><img src="css-3.png" width="50"></a>
+<a href="https://" target="_blank"><img src="js.png" width="50"></a>
+<a href="https://" target="_blank"><img src="json.png" width="50"></a>
+<!-- <a href="https://" target="_blank"><img src="json.png" width="50"></a> -->
+<a href="https://" target="_blank"><img src="postgre.png" width="50"></a>
 <a href="https://" target="_blank"><img src="mysql.png" width="50"></a>
 <a href="https://" target="_blank"><img src="laravel.png" width="50"></a>
-<a href="https://" target="_blank"><img src="css-3.png" width="50"></a>
 <a href="https://" target="_blank"><img src="php.png" width="50"></a>
 <a href="https://" target="_blank"><img src="piton.png" width="50"></a>
+<a href="https://" target="_blank"><img src="java.png" width="50"></a>
 <a href="https://" target="_blank"><img src="figma.png" width="50"></a>
 <a href="https://" target="_blank"><img src="oreja.png" width="50"></a>
-<a href="https://" target="_blank"><img src="react.png" width="50"></a>
-<a href="https://" target="_blank"><img src="java.png" width="50"></a>
-<a href="https://" target="_blank"><img src="servidor-sql.png" width="50"></a>
 <a href="https://" target="_blank"><img src="nodo-js.png" width="50"></a>
 <a href="https://" target="_blank"><img src="node.png" width="50"></a>
+<a href="https://" target="_blank"><img src="react.png" width="50"></a>
 <a href="https://" target="_blank"><img src="angular.png" width="50"></a>
 <a href="https://" target="_blank"><img src="cube.png" width="50"></a>
+<a href="https://" target="_blank"><img src="servidor-sql.png" width="50"></a>
 <a href="https://" target="_blank"><img src="microservice.png" width="50"></a>
 
 
