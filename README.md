@@ -18,8 +18,12 @@
 <a href="https://" target="_blank"><img src="java.png" width="50"></a>
 <a href="https://" target="_blank"><img src="servidor-sql.png" width="50"></a>
 <a href="https://" target="_blank"><img src="nodo-js.png" width="50"></a>
-<a href="https://" target="_blank"><img src="react.png" width="50"></a>
-<a href="https://" target="_blank"><img src="react.png" width="50"></a>
+<a href="https://" target="_blank"><img src="cube.png" width="50"></a>
+<a href="https://" target="_blank"><img src="microservice.png" width="50"></a>
+
+<a href="https://" target="_blank"><img src="node.png" width="50"></a>
+<a href="https://" target="_blank"><img src="angular.png" width="50"></a>
+
 
 
 
