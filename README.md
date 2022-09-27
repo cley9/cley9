@@ -22,6 +22,10 @@
 <a href="https://" target="_blank"><img src="angular.png" width="50"></a>
 <a href="https://" target="_blank"><img src="cube.png" width="50"></a>
 <a href="https://" target="_blank"><img src="microservice.png" width="50"></a>
+<a href="https://" target="_blank"><img src="composer.png" width="50"></a>
+<a href="https://" target="_blank"><img src="linux.png" width="50"></a>
+<a href="https://" target="_blank"><img src="ubuntu.png" width="50"></a>
+<a href="https://" target="_blank"><img src="redhat.png" width="50"></a>
 
 
 
