@@ -2,10 +2,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" />
 
 <p align="center">
-<a href="https://" target="_blank"><img src="js.png" width="90"></a>
-<a href="https://" target="_blank"><img src="js.png" width="90"></a>
-<a href="https://" target="_blank"><img src="js.png" width="90"></a>
-<a href="https://" target="_blank"><img src="js.png" width="90"></a>
+<a href="https://" target="_blank"><img src="js.png" width="30"></a>
+<a href="https://" target="_blank"><img src="js.png" width="30"></a>
+<a href="https://" target="_blank"><img src="js.png" width="30"></a>
+<a href="https://" target="_blank"><img src="js.png" width="30"></a>
 
 </p>
 
