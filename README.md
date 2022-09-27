@@ -3,16 +3,25 @@
 
 <p align="center">
 <a href="https://" target="_blank"><img src="js.png" width="50"></a>
-<a href="https://" target="_blank"><img src="js.png" width="50"></a>
-<a href="https://" target="_blank"><img src="js.png" width="50"></a>
-<a href="https://" target="_blank"><img src="js.png" width="50"></a>
+<a href="https://" target="_blank"><img src="postgre.png" width="50"></a>
+<a href="https://" target="_blank"><img src="json.png" width="50"></a>
+<a href="https://" target="_blank"><img src="json.png" width="50"></a>
+<a href="https://" target="_blank"><img src="html-5.png" width="50"></a>
+<a href="https://" target="_blank"><img src="mysql.png" width="50"></a>
+<a href="https://" target="_blank"><img src="laravel.png" width="50"></a>
+<a href="https://" target="_blank"><img src="css-3.png" width="50"></a>
+<a href="https://" target="_blank"><img src="php.png" width="50"></a>
+<a href="https://" target="_blank"><img src="piton.png" width="50"></a>
+<a href="https://" target="_blank"><img src="figma.png" width="50"></a>
+<a href="https://" target="_blank"><img src="oreja.png" width="50"></a>
+
 
 </p>
 
 
 [![laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg)](https://laravel.com/docs/9.x)
 
-[![js](js.png)](https://laravel.com/docs/9.x)
+<!-- [![js](js.png)](https://laravel.com/docs/9.x) -->
 <!-- 
 
 [![css](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png)](https://laravel.com/docs/9.x)
